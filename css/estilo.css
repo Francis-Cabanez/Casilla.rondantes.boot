@@ -1,0 +1,24 @@
+body{
+	background-image: url(../assets/img/fondo2.jpg);
+
+}
+
+.img1{
+	margin-left: 170px;
+
+}
+
+
+.img-fluid1{
+	margin-left: 42%;
+
+}
+
+
+.text-center{
+	background-color:#e8e6a7;
+	padding-bottom: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
+	
+}
