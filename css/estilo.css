@@ -3,7 +3,7 @@ body{
 
 }
 
-.img1{
+.imga1{
 	margin-left: 170px;
 
 }
@@ -20,5 +20,32 @@ body{
 	padding-bottom: 50px;
 	padding-right: 50px;
 	padding-left: 50px;
-	
+
+}
+
+
+
+.row{
+	justify-content: center;
+}
+
+
+
+.post2{
+
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.imgb1{
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+.imgb2{
+	margin-bottom: 20px;
+	margin-left: 0px
+}
+.imgb3{
+	margin-bottom: 20px;
+	margin-left: 0px
 }
